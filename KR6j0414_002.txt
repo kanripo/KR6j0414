@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:59.929589
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 文殊所說最勝名義經
 #+PROPERTY: CBETA_ID T20n1188
 #+PROPERTY: ID KR6j0414
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1188
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0414_T_002-0817b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 文殊所說最勝名義經卷下¶
+文殊所說最勝名義經卷下¶
 ¶
 宋西天三藏明因妙善普濟法師¶
 金總持等奉　詔譯¶
@@ -225,9 +224,9 @@
 　歸命一切智
 　讚歎一切智¶
 　性空及幻網
-　歸讚亦如是
+　歸讚亦如是」
 #+END_VERSE
-」¶
+¶
 
 爾時金剛掌菩薩摩訶薩。金剛手菩薩摩訶¶
 薩。白佛言世尊。如來智觀一切智身甚深微¶
